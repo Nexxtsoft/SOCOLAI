@@ -53,7 +53,7 @@ To get started with SOCOLAI, please follow the instructions below:
 
 1. Clone the repository:
 
-git clone https://github.com/Nexxtsoft/SOCOLAI.git
+`git clone https://github.com/Nexxtsoft/SOCOLAI.git`
 
 2. Navigate to the project directory:
 
