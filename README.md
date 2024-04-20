@@ -34,7 +34,6 @@ This repository is organized into several main sections:
 
 ### 02-Projects
 
--### 02-Projects
 - **02-01 Knowledge-Base**: Development and maintenance of a dynamic knowledge base containing research, publications, and other relevant information.
 - **02-02 Requirement-Management**: Focuses on developing advanced techniques and tools to capture and model software requirements efficiently.
 - **02-03 Software-Architecture**: Dedicated to the exploration and creation of innovative software architecture models that integrate AI effectively.
