@@ -44,7 +44,7 @@ The Knowledge-Base project is the foundational effort in the SOCOLAI program aim
 
 ## Contribution Guidelines
 
-Contributors are encouraged to suggest improvements, add new sources, and help refine the keyword extraction algorithms. Please refer to [CONTRIBUTING.md](../CONTRIBUTING.md) for more detailed information on how to get involved.
+Contributors are encouraged to suggest improvements, add new sources, and help refine the keyword extraction algorithms. Please refer to [CONTRIBUTING.md](../../CONTRIBUTING.md) for more detailed information on how to get involved.
 
 ## Contact
 
