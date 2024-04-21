@@ -13,7 +13,7 @@ between humans and AI systems, and among AI systems themselves.
 This program is not only a cornerstone for academic research but also serves as a hub 
 for community-driven development, providing tools and discussions forums through its open-source repositories.
 
-Visit our dedicated domain at [SOCOL.AI](https://socol.ai) for more information and continuous updates.
+Visit our dedicated domain at [SOCOL.AI](www.socol.ai) for more information and continuous updates.
 
 
 ## Structure
